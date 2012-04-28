@@ -11,6 +11,7 @@ Next Steps
 * Treat multi-word commands as a unit
 * Handle html
 * Indentation file
+* Active 4D specific commands
 
 Source Files
 ------------
