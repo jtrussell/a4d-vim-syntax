@@ -1,0 +1,41 @@
+4d _o_set _o_web a abort aborted about abs accept access accumulate activated add administration after
+alert alias alignment all allowed alt and append application apply arctan area array arrays assert asserted
+attribute attributes authenticate authentication auto automatic available back background backup bar base64
+beep before begin best blob body boolean borders break bring buffer buffers build button by c_blob c_boolean
+c_date c_graph c_integer c_longint c_picture c_pointer c_real c_string c_text c_time calculation call called
+cancel caps case cdata cell center century certificate cgi change channel char character check checking
+child choice choose clear click client clients close code codec collapse color colors column columns combine
+command comment comments compact comparison compiled component compress confirm connection container content
+context contextual control convert converter coordinates copy cos count create creator ctrl current cursor
+cut data database date day deactivated dec declaration decode decrypt default delay delete deleted depth
+describe destination deviation dialog dictionary dif difference digest disable disk display displayed distinct
+doctype document dom down drag drop duplicate during dynamic edit edited element elements empty enable
+enabled encode encrypt encryption end enterable entity entry environment equal erase err error euro event
+example executable execute execution exit exp expand expiration export external false fault field file
+filter filtered filters find first flush focus folder folders font footer footers form format forms formula
+forward fragmentation from front frontmost full function generate gestalt get gif goto graph grid group
+header headers height help hide hierarchy highlight highlighted history home horizontal html http icon
+id idle ids import in index indexed info information input insert instruction int integer integrate interface
+internal intersection invert invisible is iso item items javascript job key keyboard keypair keystroke
+keywords kind label larger last launch layout length level library license licenses limit limits line links
+list listbox lists load loaded loading localization localized lock locked log login logout longint lowercase
+mac machine macintosh macro many map mapping margin mark marker match max maximize memory menu menus message
+messages metadata method methods milliseconds min minimize missing mod mode modification modified modifiers
+modify month mouse move moved multi name named names new next nil no node nodes not notification notify
+null num number object objects odbc of off offscreen old on one only open option options order output outside
+owner packet page parameter parameters parent parse part password pasteboard path paths pause php picture
+pictures plain plan platform play plugin pointer pop port position posix post preference preview previous
+print printable printed printer printers printing process processes processing properties property push
+qr qt query quit random range raw read real receive record records rect rectangle redirect redraw reduce
+ref reference refresh regenerate regex register registered reject relate related relation relations release
+reload remove replace report request resize resizing resolve resource resources response restore result
+resume rgb right root round row rows run save sax scan screen screens screenshot script scroll scrollbar
+secured security segment select selected selection self semaphore send sequence serial server service session
+set settings setup shift shortcut show shutdown sibling sin size smaller soap sort sorts source spacing
+spell spellcheck sql square squares stack start startup state static statistics status std stop string
+structure style styled subform subrecord subrecords subselection substring subtotal sum suspend svg sylk
+system table tags tan tasks template temporary test text thumbnail tickcount time timeout timer tip title
+titles to tool totals trace transaction transform transformation trigger true trunc truncate type types
+undefined union unload unregister up uppercase url use user users uuid valid validate value values var
+variable variables variance verify version vertical visible volume wa web width win window windows with
+write xml xslt xy year
