@@ -22,13 +22,13 @@ syn keyword a4dKeywords command comment comments compact comparison compiled com
 syn keyword a4dKeywords context contextual control convert converter coordinates copy cos count create creator ctrl current cursor
 syn keyword a4dKeywords cut data database date day deactivated dec declaration decode decrypt default delay delete deleted depth
 syn keyword a4dKeywords describe destination deviation dialog dictionary dif difference digest disable disk display displayed distinct
-syn keyword a4dKeywords doctype document dom down drag drop duplicate during dynamic edit edited element elements empty enable
+syn keyword a4dKeywords doctype document dom down drag drop duplicate during dynamic edit edited element elements else empty enable
 syn keyword a4dKeywords enabled encode encrypt encryption end enterable entity entry environment equal erase err error euro event
 syn keyword a4dKeywords example executable execute execution exit exp expand expiration export external false fault field file
 syn keyword a4dKeywords filter filtered filters find first flush focus folder folders font footer footers form format forms formula
 syn keyword a4dKeywords forward fragmentation from front frontmost full function generate gestalt get gif goto graph grid group
 syn keyword a4dKeywords header headers height help hide hierarchy highlight highlighted history home horizontal html http icon
-syn keyword a4dKeywords id idle ids import in index indexed info information input insert instruction int integer integrate interface
+syn keyword a4dKeywords id idle ids if import in index indexed info information input insert instruction int integer integrate interface
 syn keyword a4dKeywords internal intersection invert invisible is iso item items javascript job key keyboard keypair keystroke
 syn keyword a4dKeywords keywords kind label larger last launch layout length level library license licenses limit limits line links
 syn keyword a4dKeywords list listbox lists load loaded loading localization localized lock locked log login logout longint lowercase
@@ -53,6 +53,8 @@ syn keyword a4dKeywords undefined union unload unregister up uppercase url use u
 syn keyword a4dKeywords variable variables variance verify version vertical visible volume wa web width win window windows with
 syn keyword a4dKeywords write xml xslt xy year
 
+syn keyword a4dActiveKeywords return
+
 " Strings - this should handle the "triple quote" delimited strings
 syn region a4dString start='\'' end='\''
 syn region a4dString start='"' end='"'
@@ -76,6 +78,7 @@ let b:current_syntax = 'a4d'
 
 " Assign highlighting rules to our groups
 hi def link a4dKeywords Type
+hi def link a4dActiveKeywords Type
  
 hi def link a4dString String
 
